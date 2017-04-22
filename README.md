@@ -1,6 +1,6 @@
 # vue-cli-webpack-scss-px2rem-demo
 
-> A Vue.js project
+> 一个使用 vue-cli 基于 webpack 模板，使用 scss 编写，实现 .vue 文件中的 scss 和 外置 scss 文件 px2rem（含 dpr）全自动转换 demo
 
 ## Build Setup
 
